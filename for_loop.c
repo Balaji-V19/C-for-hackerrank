@@ -3,6 +3,9 @@
 #include <math.h>
 #include <stdlib.h>
 
+/*************************************
+author: balaji
+*************************************/
 
 
 int main() 
