@@ -2,6 +2,13 @@
 /*
 Add `int max_of_four(int a, int b, int c, int d)` here.
 */
+
+
+
+
+/*************************************
+author: balaji
+*************************************/
 int max_of_four(int a,int b,int c,int d)
 {
     int sum=0;
