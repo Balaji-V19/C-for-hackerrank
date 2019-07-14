@@ -1,8 +1,20 @@
 #include <stdio.h>
+
+
+
+/*************************************
+author: balaji
+*************************************/
+
+
 int ret(int a)
 {
     return -a;
 }
+
+
+
+
 
 void update(int *a,int *b) {
     // Complete this function 
